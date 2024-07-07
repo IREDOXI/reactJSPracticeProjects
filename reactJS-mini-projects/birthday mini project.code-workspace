@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "react-projects-master\\01-birthday-reminder"
+	},
+	{
+		"path": "react-projects-master\\02-tours"
+	},
+	{
+		"path": "react-projects-master\\03-reviews"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "01-birthday-reminder"
+  }
+}
